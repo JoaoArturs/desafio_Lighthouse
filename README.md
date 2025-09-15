@@ -3,7 +3,7 @@
 Este guia explica **rapidamente** como abrir e rodar o notebook do projeto no Google Colab.  
 Arquivo principal: `LH_CD_JOAOARTURSALESROCHA.ipynb`
 
-## Passo a passo (detalhado)
+## Passo a passo
 
 ### 1) Abrir o Colab
 - Acesse: https://colab.research.google.com
